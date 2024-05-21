@@ -78,8 +78,6 @@ SUB REGISTER1 REGISTER2
 
 ▪
 3rd bit : REGISTER = as in LOAD
-McGill Project COMP 273
-Vybihal School of Computer Science Page 6 of 7
 
 ▪
 4th bit : REGISTER = as in LOAD
